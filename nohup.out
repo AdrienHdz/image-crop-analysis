@@ -1,0 +1,231 @@
+[I 2021-09-15 23:53:44.939 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-09-15 23:53:45.142 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-09-15 23:53:45.172 LabApp] JupyterLab extension loaded from /home/adrien.hernandez.17/miniconda/lib/python3.9/site-packages/jupyterlab
+[I 2021-09-15 23:53:45.172 LabApp] JupyterLab application directory is /home/adrien.hernandez.17/miniconda/share/jupyter/lab
+[I 2021-09-15 23:53:45.176 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-09-15 23:53:45.179 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-09-15 23:53:45.181 ServerApp] Serving notebooks from local directory: /home/adrien.hernandez.17/image-crop-analysis
+[I 2021-09-15 23:53:45.181 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2021-09-15 23:53:45.181 ServerApp] http://localhost:8888/lab?token=9c20a0bf9f5ca54c07306d3fe5d4f072bddfae2c7de3dd48
+[I 2021-09-15 23:53:45.181 ServerApp]  or http://127.0.0.1:8888/lab?token=9c20a0bf9f5ca54c07306d3fe5d4f072bddfae2c7de3dd48
+[I 2021-09-15 23:53:45.181 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-09-15 23:53:45.185 ServerApp] No web browser found: could not locate runnable browser.
+[C 2021-09-15 23:53:45.185 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/adrien.hernandez.17/.local/share/jupyter/runtime/jpserver-2233-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=9c20a0bf9f5ca54c07306d3fe5d4f072bddfae2c7de3dd48
+     or http://127.0.0.1:8888/lab?token=9c20a0bf9f5ca54c07306d3fe5d4f072bddfae2c7de3dd48
+[I 2021-09-15 23:53:54.791 ServerApp] 302 GET / (127.0.0.1) 0.75ms
+[W 2021-09-15 23:53:57.700 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+[I 2021-09-15 23:53:59.357 ServerApp] New terminal with specified name: 2
+TermSocket.open: Opened 2
+[I 2021-09-15 23:56:06.604 ServerApp] Creating new file in 
+[I 2021-09-15 23:56:29.894 ServerApp] Saving file at /app.py
+[I 2021-09-15 23:56:37.139 ServerApp] Creating new file in 
+[I 2021-09-15 23:56:58.764 ServerApp] Creating new file in 
+[I 2021-09-15 23:57:19.422 ServerApp] Creating new notebook in 
+[I 2021-09-15 23:57:19.931 ServerApp] Kernel started: 4772febc-e4e5-4069-9288-cd62572ac900
+[I 2021-09-15 23:57:30.740 ServerApp] Saving file at /app.py
+[I 2021-09-15 23:59:18.108 ServerApp] Copying data/dummy.jpeg to 
+[I 2021-09-15 23:59:19.889 ServerApp] Saving file at /Untitled.ipynb
+[I 2021-09-16 00:00:06.230 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:00:11.409 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:00:52.453 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:00:57.876 ServerApp] Kernel shutdown: 4772febc-e4e5-4069-9288-cd62572ac900
+[I 2021-09-16 00:00:58.273 ServerApp] Kernel started: c31e56c1-dfa3-4a7b-ae3e-ae229cde704e
+[I 2021-09-16 00:01:20.029 ServerApp] Saving file at /Untitled.ipynb
+[I 2021-09-16 00:03:02.833 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:03:14.630 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:03:16.951 ServerApp] Kernel shutdown: c31e56c1-dfa3-4a7b-ae3e-ae229cde704e
+[I 2021-09-16 00:03:17.427 ServerApp] Kernel started: d7cce06a-8946-4a9a-9159-1c020920a5e5
+[I 2021-09-16 00:03:20.162 ServerApp] Saving file at /Untitled.ipynb
+[I 2021-09-16 00:03:38.693 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:03:41.758 ServerApp] Kernel shutdown: d7cce06a-8946-4a9a-9159-1c020920a5e5
+[I 2021-09-16 00:03:42.229 ServerApp] Kernel started: 2fb4cb1f-cd1d-47d4-93e2-f98994fca3d9
+/bin/sh: 1: ../bin/linux/candidate_crops: not found
+[I 2021-09-16 00:04:20.048 ServerApp] Kernel shutdown: 2fb4cb1f-cd1d-47d4-93e2-f98994fca3d9
+[I 2021-09-16 00:04:20.625 ServerApp] Kernel started: 9644d56b-4d15-4606-9562-a5494d15c9f1
+[I 2021-09-16 00:04:21.031 ServerApp] Saving file at /Untitled.ipynb
+/bin/sh: 1: ../bin/linux/candidate_crops: not found
+[I 2021-09-16 00:04:59.242 ServerApp] Saving file at /model.py
+[I 2021-09-16 00:05:46.177 ServerApp] Kernel shutdown: 9644d56b-4d15-4606-9562-a5494d15c9f1
+[I 2021-09-16 00:05:46.643 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:05:46.755 ServerApp] Kernel started: fb548648-1371-4898-aba1-ab38287a8720
+[I 2021-09-16 00:05:47.964 ServerApp] Saving file at /notebooks/Untitled.ipynb
+2021-09-16 00:06:08.104553: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 00:06:08.104605: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 2021-09-16 00:06:46.684 ServerApp] Copying src/crop_api.py to /notebooks
+[I 2021-09-16 00:06:46.725 ServerApp] Copying src/image_manipulation.py to /notebooks
+[I 2021-09-16 00:06:47.459 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:06:49.206 ServerApp] Kernel shutdown: fb548648-1371-4898-aba1-ab38287a8720
+[I 2021-09-16 00:06:50.422 ServerApp] Kernel started: 8db88a6f-c09d-4b09-af3a-95c828bcf613
+2021-09-16 00:06:55.264554: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 00:06:55.264593: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:08:16.493 ServerApp] Kernel shutdown: 8db88a6f-c09d-4b09-af3a-95c828bcf613
+[I 2021-09-16 00:08:17.675 ServerApp] Kernel started: d5ad742a-a646-492b-82a3-b9ed2b3d2084
+2021-09-16 00:08:22.548559: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 00:08:22.548601: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:08:47.780 ServerApp] Saving file at /notebooks/Untitled.ipynb
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:09:49.318 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:10:32.402 ServerApp] Copying bin/fastgaze.vxm to /notebooks
+[I 2021-09-16 00:10:46.881 ServerApp] Copying bin/linux/candidate_crops to /notebooks
+[I 2021-09-16 00:10:51.247 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:11:29.377 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 00:11:32.879 ServerApp] Kernel shutdown: d5ad742a-a646-492b-82a3-b9ed2b3d2084
+[I 2021-09-16 00:11:34.058 ServerApp] Kernel started: fea46763-7aa7-4470-a666-88b695a1664d
+2021-09-16 00:11:38.961225: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 00:11:38.961263: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:12:51.595 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:12:53.301 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 00:17:17.257 ServerApp] Saving file at /Dockerfile
+[I 2021-09-16 00:17:41.529 ServerApp] Saving file at /Dockerfile
+[I 2021-09-16 00:19:27.426 ServerApp] Saving file at /Dockerfile
+[I 2021-09-16 00:26:54.823 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 00:26:56.755 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 00:36:52.522 ServerApp] Saving file at /notebooks/crop_api.py
+[I 2021-09-16 00:36:55.862 ServerApp] Kernel shutdown: fea46763-7aa7-4470-a666-88b695a1664d
+[I 2021-09-16 00:36:57.140 ServerApp] Kernel started: ef72796b-5831-46ba-a9a1-03cfc0716b02
+2021-09-16 00:37:02.201731: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 00:37:02.201770: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:38:45.433 ServerApp] Saving file at /Dockerfile
+[I 2021-09-16 00:38:53.127 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:38:53.647 ServerApp] Saving file at /Dockerfile
+[I 2021-09-16 00:46:39.475 ServerApp] Uploading file to /linkedin_test.jpg
+[I 2021-09-16 00:46:55.028 ServerApp] Saving file at /notebooks/Untitled.ipynb
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 00:48:33.226 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 00:48:55.698 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 00:59:20.856 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 00:59:29.980 ServerApp] Saving file at /notebooks/app.py
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:07:30.833 ServerApp] Saving file at /notebooks/app.py
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:07:53.555 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:09:18.520 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 01:09:24.505 ServerApp] Kernel shutdown: ef72796b-5831-46ba-a9a1-03cfc0716b02
+[I 2021-09-16 01:09:25.680 ServerApp] Kernel started: c8d3786a-619b-48ab-8c33-ddc803467f0d
+2021-09-16 01:09:30.538059: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:09:30.538098: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:09:54.259 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:09:58.893 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 01:10:47.684 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 01:10:54.246 ServerApp] Kernel shutdown: c8d3786a-619b-48ab-8c33-ddc803467f0d
+[I 2021-09-16 01:10:55.325 ServerApp] Kernel started: 87eedb70-c63f-4f1c-a29d-ad1d5cf002d4
+2021-09-16 01:11:00.149916: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:11:00.149954: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:11:41.307 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 01:11:47.214 ServerApp] Kernel shutdown: 87eedb70-c63f-4f1c-a29d-ad1d5cf002d4
+[I 2021-09-16 01:11:48.297 ServerApp] Kernel started: 4eef144a-993b-469f-8e66-c1fe963b8877
+2021-09-16 01:11:53.106462: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:11:53.106499: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 2021-09-16 01:11:54.431 ServerApp] Saving file at /notebooks/Untitled.ipynb
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:12:20.230 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 01:13:55.332 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:17:33.858 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:18:06.453 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:22:27.870 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:22:31.862 ServerApp] Kernel shutdown: 4eef144a-993b-469f-8e66-c1fe963b8877
+[I 2021-09-16 01:22:32.966 ServerApp] Kernel started: eae474a8-adaf-4093-8167-579d80649a93
+2021-09-16 01:22:40.486936: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:22:40.486974: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:24:29.403 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:25:38.893 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:26:29.574 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:28:08.815 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:28:29.186 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 01:28:36.019 ServerApp] Kernel shutdown: eae474a8-adaf-4093-8167-579d80649a93
+[I 2021-09-16 01:28:37.097 ServerApp] Kernel started: 85aff66b-5908-4ebd-9f8b-5c033c21a129
+2021-09-16 01:28:45.741318: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:28:45.741355: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:30:10.432 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 01:31:09.390 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 01:31:31.196 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:33:29.047 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:33:31.689 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:33:38.115 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:40:48.673 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:40:48.715 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:48:01.420 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:57:59.846 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 01:58:26.474 ServerApp] Saving file at /notebooks/crop_api.py
+[I 2021-09-16 01:58:30.073 ServerApp] Saving file at /notebooks/crop_api.py
+[I 2021-09-16 01:58:43.958 ServerApp] Saving file at /notebooks/model.py
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 01:59:24.495 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 01:59:30.549 ServerApp] Kernel shutdown: 85aff66b-5908-4ebd-9f8b-5c033c21a129
+[I 2021-09-16 01:59:31.736 ServerApp] Kernel started: 1bec23b1-354d-4079-8016-f5f58884d132
+2021-09-16 01:59:36.741747: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 01:59:36.741786: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 02:00:13.843 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 02:00:24.857 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 02:00:25.045 ServerApp] Saving file at /notebooks/image_manipulation.py
+[I 2021-09-16 02:00:48.084 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 02:00:52.544 ServerApp] Kernel shutdown: 1bec23b1-354d-4079-8016-f5f58884d132
+[I 2021-09-16 02:00:53.719 ServerApp] Kernel started: 7c5ccc2a-d593-427b-901c-5017cdb85636
+2021-09-16 02:01:24.365771: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 02:01:24.365813: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 02:01:40.836 ServerApp] Saving file at /notebooks/model.py
+[I 2021-09-16 02:01:43.678 ServerApp] Kernel shutdown: 7c5ccc2a-d593-427b-901c-5017cdb85636
+[I 2021-09-16 02:01:44.856 ServerApp] Kernel started: 4f73ee47-056e-4e2d-ba45-0bdd4a9ce2d5
+2021-09-16 02:01:49.800216: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-09-16 02:01:49.800260: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+showAllPoints=true, argv[3]=show_all_points
+showAllPoints=true, argv[3]=show_all_points
+[I 2021-09-16 02:02:15.055 ServerApp] Saving file at /notebooks/Untitled.ipynb
+[I 2021-09-16 02:03:18.784 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:03:34.929 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:09:41.656 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:14:35.977 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:15:04.452 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:15:13.734 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:15:15.540 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:23:39.284 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:23:47.586 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:25:47.717 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:27:44.879 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:29:43.532 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:29:50.007 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:29:55.581 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:29:59.127 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:37:53.972 ServerApp] Saving file at /notebooks/app.py
+[I 2021-09-16 02:46:20.227 ServerApp] Starting buffering for 4f73ee47-056e-4e2d-ba45-0bdd4a9ce2d5:919a9e2e-f48e-4583-8996-1303b3f6b51f
+Websocket closed
+[I 2021-09-16 02:46:56.560 ServerApp] 302 GET / (127.0.0.1) 0.94ms
+[W 2021-09-16 02:46:59.340 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 2021-09-16 02:47:41.497 ServerApp] Saving file at /notebooks/app.py
